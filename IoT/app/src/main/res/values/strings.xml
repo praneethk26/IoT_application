@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoT</string>
+    <string name="iot_box">IoT Box</string>
+    <string name="lid_on">Lid ON</string>
+    <string name="_55">55%</string>
+    <string name="battery_percentage">Battery Percentage</string>
+    <string name="lid_off">Lid OFF</string>
+    <string name="box_temperature">Box Temperature</string>
+</resources>
